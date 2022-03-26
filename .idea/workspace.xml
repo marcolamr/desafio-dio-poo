@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51975ec1-a1a7-406f-89f0-8d1a3372b788" name="Changes" comment="add README.md">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
+    <list default="true" id="51975ec1-a1a7-406f-89f0-8d1a3372b788" name="Changes" comment="add class Curso and Mentoria">
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="Lombok" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -82,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648238081532</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add class Curso and Mentoria">
+      <created>1648239352184</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648239352184</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +110,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="add README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="add README.md" />
+    <MESSAGE value="add class Curso and Mentoria" />
+    <option name="LAST_COMMIT_MESSAGE" value="add class Curso and Mentoria" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
